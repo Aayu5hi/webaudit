@@ -1,6 +1,6 @@
 # Website Audit Agent
 
-This. is an AI-powered website auditing tool that analyses websites across conversion, UX, trust, SEO, and marketing best practices, then generates professional client-ready reports in both PDF and interactive web formats.
+This is an AI-powered website auditing tool that analyses websites across conversion, UX, trust, SEO, and marketing best practices, then generates professional client-ready reports in both PDF and interactive web formats.
 
 Unlike generic website analysers, this project first classifies the website (e-commerce, SaaS, agency, local business, blog, etc.) then adapts its evaluation criteria accordingly. For example, missing product CTAs matter for an online store but not for a blog, while lead-generation expectations differ between service businesses and portfolios.
 
